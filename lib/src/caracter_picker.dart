@@ -14,7 +14,7 @@ class CharacterPicker extends StatefulWidget {
 }
 
 class _CharacterPickerState extends State<CharacterPicker> {
-  var _alphabets = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z';
+  var _alphabets = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,š,Z,ž,T,U,V,Õ,Ä,Ö,Ü,X,Y';
 
   @override
   void initState() {
